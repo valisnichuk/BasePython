@@ -101,5 +101,4 @@ if __name__ == '__main__':
     def test_powers():
         return powers(*range(1, 10_000))
 
-
     test_powers()
